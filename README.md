@@ -1,2 +1,2 @@
-# china-geo-data
+# geo-data
 map
